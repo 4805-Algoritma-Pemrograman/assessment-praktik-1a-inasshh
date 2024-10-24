@@ -13,6 +13,19 @@ Honor lembur:120000.0
 Total jam lembur: 20
 Honor lembur:220000.0
 
+Pseudocode
+Var totalJamLembur: double;
+Var honorLembur: double;
+
+Algoritma
+INPUT (totalJamLembur)
+IF(totalJamLembur <= 16) THEN
+   honorLembur = totalJamLembur * 10000
+ELSE(TotalJamLembur > 16) THEN
+   honorLembur = totalJamLembur * 15000
+ENDIF
+
+
 2.	Pak Hasan memiliki 3 orang driver, yaitu: Beliau, Mereka, dan Kita. Pak Hasan ingin mencatat total omzet yang dicapai oleh setiap driver dan menentukan siapa yang memiliki omzet paling besar. Omzet dihitung berdasarkan banyaknya perjalanan (trip) yang dilalui dengan biaya per kilometer trip adalah 13.000. Buatlah rancangan algoritma dan program untuk memenuhi kebutuhan Pak Hasan.
 Output program:
 
