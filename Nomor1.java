@@ -21,3 +21,14 @@ public class Nomor1{
         
     }
 }
+Pseudocode
+Var totalJamLembur: double;
+Var honorLembur: double;
+
+Algoritma
+INPUT (totalJamLembur)
+IF(totalJamLembur <= 16) THEN
+   honorLembur = totalJamLembur * 10000
+ELSE(TotalJamLembur > 16) THEN
+   honorLembur = totalJamLembur * 15000
+ENDIF
