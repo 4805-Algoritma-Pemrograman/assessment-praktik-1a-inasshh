@@ -22,3 +22,13 @@ public class Nomor2{
 
     }
 }
+Pseudocode
+Var namaDriver: integer;
+Var lamaTrip: double;
+Var omzet: double;
+
+Algoritma
+INPUT (omzet)
+IF THEN
+    omzet = lamaTrip * 13000
+ENDIF
