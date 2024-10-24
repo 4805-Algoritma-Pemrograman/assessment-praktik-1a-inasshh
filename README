@@ -44,7 +44,7 @@ Omzet tertinggi diperoleh oleh Beliau dengan total Omzet = 78000
 Pseudocode
 Var namaDriver: integer;
 Var lamaTrip: double;
-Var omzet
+Var omzet: double;
 
 Algoritma
 INPUT (omzet)
