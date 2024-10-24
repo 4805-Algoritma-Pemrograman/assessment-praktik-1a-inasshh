@@ -1,13 +1,23 @@
 public class Nomor2{
     public static void main(String[] args){
-        Scanner scanner = new Scanner .nextLine(System.in);
+        int namaDriver;
+        double lamaTrip;
+        double omzet = 0;
+        Scanner input = new Scanner(System.in);
 
         //input nama driver
         System.out.println("nama driver?[Bliau/Mereka/Kita]");
-        String driver = scanner.nextLine();
+        String namaDriver = scanner.nextLine();
 
-        //menghitung omset
-        if 
+        //input lama trip
+        System.out.println("lama trip?: ");
+        String lamaTrip = scanner.nextLine();
+
+        //menghitung omzet
+        if {
+            omzet = lamaTrip * 13000;
+        }
+            
         
 
     }
